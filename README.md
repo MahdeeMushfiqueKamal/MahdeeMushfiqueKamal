@@ -30,9 +30,9 @@ Currently working on AI-powered solutions (Recommendation Systems, Retrieval Aug
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdeeMushfiqueKamal&show_icons=true&theme=dracula)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdeeMushfiqueKamal&show_icons=true&theme=dracula) -->
 
 ## 📫 How to reach me
 
@@ -41,4 +41,4 @@ Currently working on AI-powered solutions (Recommendation Systems, Retrieval Aug
 
 ## 📝 Latest Publication
 
-- **Generating Scale-Free Caterpillar and Series-Parallel Networks** - _ICCA 2024: Proceedings of the International Conference on Computing Advancements_
+- **Generating Scale-Free Caterpillar and Series-Parallel Networks** - _ICCA 2024: Proceedings of the International Conference on Computing Advancements_ [https://doi.org/10.1145/3723178.3723189](https://doi.org/10.1145/3723178.3723189)
